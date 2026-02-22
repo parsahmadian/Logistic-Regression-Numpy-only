@@ -14,9 +14,7 @@ To deeply understand:
 ## 🧠 Model
 The model predicts probabilities using:
 
-\[
-\hat{y} = \sigma(X \cdot w + b)
-\]
+ŷ = σ(X · w + b)
 
 Where:
 - **X**: input features
